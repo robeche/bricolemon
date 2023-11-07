@@ -225,19 +225,19 @@
 
 
     #define X_SERIAL_TX_PIN   0
-    #define X_SERIAL_RX_PIN   1
+    #define X_SERIAL_RX_PIN   0
 
     #define Y_SERIAL_TX_PIN   0
-    #define Y_SERIAL_RX_PIN   1
+    #define Y_SERIAL_RX_PIN   0
 
     #define Z_SERIAL_TX_PIN   0
-    #define Z_SERIAL_RX_PIN   1
+    #define Z_SERIAL_RX_PIN   0
 
     #define E0_SERIAL_TX_PIN  0
-    #define E0_SERIAL_RX_PIN  1
+    #define E0_SERIAL_RX_PIN  0
 
-    #define E1_SERIAL_TX_PIN  17
-    #define E1_SERIAL_RX_PIN  16
+    #define E1_SERIAL_TX_PIN  0
+    #define E1_SERIAL_RX_PIN  0
 
 
 
